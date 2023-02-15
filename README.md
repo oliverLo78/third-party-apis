@@ -23,7 +23,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-You can try out the application in the following link [third-party-APIs]()
+You can try out the application in the following link [third-party-APIs](https://oliverlo78.github.io/third-party-apis/)
 
 ## Usage
 
@@ -52,7 +52,7 @@ THEN the saved events persist
 
 
     
-    ![third-party-APIs image preview](./assets/images/05-third-party-apis-homework-demo.gif)
+    ![image preview](./assets/images/ScrSht%20localStorage-2.png)
 
 A repository that has no code
 
@@ -114,8 +114,5 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---

@@ -1,4 +1,4 @@
-  .day {
+  .container {
     margin-top: 40px;
   }
 
@@ -37,14 +37,15 @@
   }
   
 
-  .time-block {
+  /* .time-block {
     margin: 0 auto;
     margin-left: 20%;
     margin-right: 20%;
     flex-direction: column; 
     justify-content: start;
   }
-  
+   */
+
   .row {
     white-space: pre-wrap;
     height: 80px;
@@ -52,11 +53,11 @@
     display: flex;
   }
   
-  .hour {
+  /* .hour {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
-  }
+  } */
   
   .past {
     background-color: #d3d3d3;
