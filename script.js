@@ -9,10 +9,10 @@ $("#currentDay").text(today.format("MMMM DD, YYYY"));
 var currentTime = moment().format('H');
 
 // WHEN I scroll down: I see an hours textinput and saveBtn to save 
-var textareaEl = $('#textarea');
+var textareaEl = $('textarea');
 var saveBtnEl = $('saveBtn');
 // THEN I am presented with timeblocks for standard business hours
-var timeblockEl = $('.time-block');
+var timeblockEl = $('textarea');
 
 // WHEN I click the save button for that timeblock
 // THEN the text for that event is saved in local storage

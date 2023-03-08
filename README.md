@@ -1,58 +1,55 @@
 # third-party-apis
-This is a work day scheduler hourly day planner 
 
-# <Your-Project-Title>
+Work Day Scheduler an hourly day planner to organize your day!
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Work Day Scheduler was created using HTML, CSS, JavaScript, jQuery, and Moment.js. The website has one hour block
+for each hour of the day from 9am-5pm. In each row the user can select a time block and enter a to do item, then 
+click the save button so they can refer back to their to-dos later if they want to change it.
 
 - Motivation for the Work Day Scheduler is to have calendar that allows a user plan ahead.
 - The reason this project is useful is due to the features it will have a user can run it in the browser and it will have HTML and CSS and jQuery.
 - You can plan ahead prioritize your to do list in an hourly block
 - Learn some of the basics methods of jQuery like loop through elements 
 
-## Table of Contents (Optional)
+## No Installation
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+You can try out the application in the following link 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-You can try out the application in the following link [third-party-APIs](https://oliverlo78.github.io/third-party-apis/)
-
-## Usage
-
-User Story
+## User Story
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
-Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule
+
 WHEN I open the planner
+
 THEN the current day is displayed at the top of the calendar
+
 WHEN I scroll down
+
 THEN I am presented with timeblocks for standard business hours
+
 WHEN I view the timeblocks for that day
+
 THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+
 WHEN I click into a timeblock
+
 THEN I can enter an event
+
 WHEN I click the save button for that timeblock
+
 THEN the text for that event is saved in local storage
+
 WHEN I refresh the page
+
 THEN the saved events persist
-
-
-
-    
-    ![image preview](./assets/images/ScrSht%20localStorage-2.png)
 
 A repository that has no code
 
