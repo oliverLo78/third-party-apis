@@ -23,7 +23,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-You can try out the application in the following link [third-party-APIs](https://oliverlo78.github.io/third-party-apis/)
+You can try out the application in the following link 
 
 ## Usage
 
