@@ -25,7 +25,7 @@ $(".saveBtn").on("click", function() {
         localStorage.setItem(hour, text);
 
     }
-    });
+});
 
 // WHEN I refresh the page
 // THEN the saved events persist
